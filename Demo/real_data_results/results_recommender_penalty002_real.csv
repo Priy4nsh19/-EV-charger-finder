@@ -1,0 +1,6 @@
+method,mean_arrival_util,pct_congested_ge90,avg_distance_km,n_decisions
+Nearest,0.4479,11.7,5.41,2000
+Lowest current util,0.2115,2.4,12.57,2000
+Lowest predicted util,0.2009,1.4,11.94,2000
+Lowest upper bound,0.2013,1.6,11.91,2000
+Random,0.4331,11.15,14.77,2000

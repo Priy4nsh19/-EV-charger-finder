@@ -1,0 +1,4 @@
+model,MAE,RMSE,R2
+Persistence (current util),0.0999,0.1394,0.8058
+Hour-of-week avg,0.0656,0.0955,0.9088
+LightGBM,0.0554,0.077,0.9407

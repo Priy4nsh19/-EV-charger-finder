@@ -1,0 +1,3 @@
+method,target_coverage,empirical_coverage,avg_interval_width
+Global conformal,0.9,0.9019,0.2499
+Hour-wise conformal,0.9,0.9016,0.2215

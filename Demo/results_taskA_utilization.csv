@@ -1,0 +1,5 @@
+model,MAE,RMSE,R2
+Persistence (last value),0.0999,0.1394,0.8058
+Hour-of-week avg,0.0655,0.0954,0.9091
+LightGBM (all features),0.055,0.0765,0.9415
+LightGBM (no weather/traffic/event),0.0552,0.0767,0.9411

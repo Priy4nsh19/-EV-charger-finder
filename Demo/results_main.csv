@@ -1,0 +1,4 @@
+model,ROC_AUC,PR_AUC,F1,Brier
+Persistence,0.5072,0.0649,0.0774,0.1178
+Hour-of-week avg,0.5735,0.0826,0.1385,0.0606
+LightGBM,0.6269,0.1028,0.1639,0.0591

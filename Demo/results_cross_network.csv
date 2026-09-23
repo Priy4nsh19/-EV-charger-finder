@@ -1,0 +1,9 @@
+held_out_network,MAE_seen_all_networks,MAE_leave_network_out,MAE_persistence,gap
+Blink,0.0575,0.058,0.1044,0.0005
+ChargePoint,0.0551,0.0558,0.0996,0.0008
+EVCS,0.0551,0.0563,0.0985,0.0012
+EVgo,0.0532,0.0559,0.0969,0.0027
+Electrify America,0.0549,0.0559,0.0973,0.001
+Shell Recharge,0.0537,0.0545,0.0971,0.0008
+Tesla Supercharger,0.0573,0.0583,0.1015,0.0009
+Volta,0.058,0.0591,0.1017,0.0011
